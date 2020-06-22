@@ -1,0 +1,10 @@
+E:\Innovations\UL Assistant\UL Assistant\obj\Debug\UL Assistant.csprojAssemblyReference.cache
+E:\Innovations\UL Assistant\UL Assistant\obj\Debug\UL_Assistant.Form1.resources
+E:\Innovations\UL Assistant\UL Assistant\obj\Debug\UL_Assistant.Properties.Resources.resources
+E:\Innovations\UL Assistant\UL Assistant\obj\Debug\UL Assistant.csproj.GenerateResource.cache
+E:\Innovations\UL Assistant\UL Assistant\obj\Debug\UL Assistant.csproj.CoreCompileInputs.cache
+E:\Innovations\UL Assistant\UL Assistant\bin\Debug\UL Assistant.exe.config
+E:\Innovations\UL Assistant\UL Assistant\bin\Debug\UL Assistant.exe
+E:\Innovations\UL Assistant\UL Assistant\bin\Debug\UL Assistant.pdb
+E:\Innovations\UL Assistant\UL Assistant\obj\Debug\UL Assistant.exe
+E:\Innovations\UL Assistant\UL Assistant\obj\Debug\UL Assistant.pdb

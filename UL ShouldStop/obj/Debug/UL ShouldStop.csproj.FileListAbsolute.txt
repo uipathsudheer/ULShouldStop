@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Desktop\UL Assistant\obj\Debug\UL ShouldStop.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Desktop\UL Assistant\obj\Debug\UL_ShouldStop.Properties.Resources.resources
+C:\Users\user\Desktop\Desktop\UL Assistant\obj\Debug\UL ShouldStop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Desktop\UL Assistant\obj\Debug\UL ShouldStop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Desktop\UL Assistant\bin\Debug\UL ShouldStop.exe.config
+C:\Users\user\Desktop\Desktop\UL Assistant\bin\Debug\UL ShouldStop.exe
+C:\Users\user\Desktop\Desktop\UL Assistant\bin\Debug\UL ShouldStop.pdb
+C:\Users\user\Desktop\Desktop\UL Assistant\obj\Debug\UL ShouldStop.exe
+C:\Users\user\Desktop\Desktop\UL Assistant\obj\Debug\UL ShouldStop.pdb
+C:\Users\user\Desktop\Desktop\UL Assistant\obj\Debug\UL_Assistant.ShouldStop.resources
